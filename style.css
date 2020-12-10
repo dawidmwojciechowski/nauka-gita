@@ -5,8 +5,8 @@ body {
 
 div {
 	display: flex-column;
-	justify-content: center;
-	text-align: center;
+	justify-content: flex-start;
+	transform: translate(50%, 0%);
 }
 
 
