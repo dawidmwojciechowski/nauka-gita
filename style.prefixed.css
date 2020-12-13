@@ -1,0 +1,21 @@
+body {
+	margin: auto;
+	padding: 20px;
+}
+
+div {
+	display: flex-column;
+	-ms-flex-pack: start;
+	    justify-content: flex-start;
+	transform: translate(50%, 0%);
+}
+
+
+p {
+	font-size: 24px;
+	margin: auto;
+}
+
+li {
+	font-size: 24px;
+}
